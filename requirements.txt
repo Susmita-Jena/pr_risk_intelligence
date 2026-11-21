@@ -6,3 +6,5 @@ xgboost==2.1.4
 joblib
 matplotlib
 seaborn
+streamlit
+shap
